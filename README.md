@@ -1,4 +1,4 @@
-# Hola 👋🏼, soy Naiara
+# Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy Naiara
 **Y esta es mi página de Github 👩🏽‍💻**
 
 # Mis lenguajes 
