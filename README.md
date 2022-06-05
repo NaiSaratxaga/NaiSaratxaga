@@ -1,8 +1,8 @@
-<p align="center" > Hey there! I'm Naiara 👋 👩‍💻 </p>
+# <p align="center" > Hey there! I'm Naiara 👋 👩‍💻 </p>
 
 
 <p align= "center">
-<img align= "center" src="https://user-images.githubusercontent.com/99652446/172061209-6f0095d9-1355-475c-adec-23c51ea47530.jpg" alt="Avatar Naiara" width="400" height="400" >
+<img align= "center" src="https://user-images.githubusercontent.com/99652446/172061209-6f0095d9-1355-475c-adec-23c51ea47530.jpg" alt="Avatar Naiara" width="500" height="500" >
 </p>
 
 
@@ -26,6 +26,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt=“github” width="40" height="40"/> </a> 
 </p>
 
-<p align="left"><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.adobe.com/es/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/></a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Xd" width="40" height="40"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
+<p align="left"><a href="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.adobe.com/es/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/></a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Xd" width="40" height="40"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaiSaratxaga&show_icons=true&locale=en&layout=compact" alt="NaiSaratxaga" /></p>
