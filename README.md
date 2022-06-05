@@ -1,9 +1,9 @@
  # <p align="center" > Hey there, I'm Naiara👩‍💻 </p>
 
-<p align= "center">![Naiara](https://user-images.githubusercontent.com/99652446/172061209-6f0095d9-1355-475c-adec-23c51ea47530.jpg)
 
-<img align= "center" src="" >
-</p>
+
+<img align= "center" src="https://user-images.githubusercontent.com/99652446/172061209-6f0095d9-1355-475c-adec-23c51ea47530.jpg" >
+
 
 
 ---------------------
