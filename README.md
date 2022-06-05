@@ -1,20 +1,18 @@
 # <p align="center" > Hey there! I'm Naiara 👋 👩‍💻 </p>
 
-
 <p align= "center">
 <img align= "center" src="https://user-images.githubusercontent.com/99652446/172061209-6f0095d9-1355-475c-adec-23c51ea47530.jpg" alt="Avatar Naiara" width="500" height="500" >
 </p>
----------------------
-**About me**
----------------------
-🌱 Junior Front End Developer 
-🥰 Proud Adalaber. Promo Paz.
-:envelope:  How to reach me: nsaratxaga@gmail.com
-🚀I’m looking for my first job as a frontend developer.
 
----------------------
+##About me
+- 🌱 Junior Front End Developer 
+- 🥰 Proud Adalaber. Promo Paz.
+- :envelope:  How to reach me: nsaratxaga@gmail.com
+- 🚀I’m looking for my first job as a frontend developer.
+
+
 **📫 You can find me*
----------------------
+
 <a href="https://www.linkedin.com/in/naiara-saratxaga-17abb030/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"/></a><a href="https://twitter.com/naiarasaratxaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30"/></a>
 
 ---------------------
