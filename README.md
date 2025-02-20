@@ -8,7 +8,7 @@
 - 🌱 Junior Front End Developer 
 - 🥰 Proud Adalaber. Promo Paz.
 - :envelope:  How to reach me: nsaratxaga@gmail.com
-- 🚀I’m looking for my first job as a Frontend developer.
+
 
 
 ## <p align="left">Follow me</p>
