@@ -5,9 +5,10 @@
 </p>
 
 ## <p align="left">About me </p>
-- Since always, creativity and technology have been the driving forces of my professional journey. I studied Digital Design and Creations at UOC, where I discovered the power of merging art and functionality in the digital world.
-  My curiosity for web development led me to specialize as a Web Developer at Adalab, a school focused on empowering women in technology.
-  There, I learned to build accessible, dynamic, and user-centered digital experiences.
+👋 ¡Hola! Soy una Data Scientist con raíces en el diseño digital y el desarrollo web.
+Me apasiona convertir datos en soluciones inteligentes, combinando análisis, creatividad y tecnología.
+Antes de llegar al mundo del dato, diseñaba experiencias digitales accesibles y centradas en el usuario.
+Hoy, mi foco está en resolver problemas reales con IA, código y mucha curiosidad.
 - :envelope:  How to reach me: nsaratxaga@gmail.com
 
 ## <p align="left">Follow me</p>
