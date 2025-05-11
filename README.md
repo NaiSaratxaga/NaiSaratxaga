@@ -9,7 +9,7 @@
 Me apasiona convertir datos en soluciones inteligentes, combinando análisis, creatividad y tecnología.
 Antes de llegar al mundo del dato, diseñaba experiencias digitales accesibles y centradas en el usuario.
 Hoy, mi foco está en resolver problemas reales con IA, código y mucha curiosidad.
-- :envelope:  How to reach me: nsaratxaga@gmail.com
+:envelope:  How to reach me: nsaratxaga@gmail.com
 
 ## <p align="left">Follow me</p>
 
